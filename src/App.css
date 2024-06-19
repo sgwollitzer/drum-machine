@@ -1,0 +1,15 @@
+*{
+  padding:10px;
+}
+
+.drum-pad{
+  background-color:pink;
+  border-color:darkred;
+  border-width:1px;
+  border-radius:3px;
+
+}
+.title{
+  color:darkred;
+  
+}
